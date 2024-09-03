@@ -9,14 +9,14 @@ int main()
     // input values from user.
     cout << "Enter the principal amount: ";
     cin >> p;
-    cout << "Enter the rate of interest: ";
+    cout << "\nEnter the rate of interest: ";
     cin >> r;
-    cout << "Enter the time period: ";
+    cout << "\nEnter the time period: ";
     cin >> t;
     // calculate simple interest using formula: simpIn = (p*r*t)/100.
     simpIn = (p * r * t) / 100;
     // display the result.
-    cout << "Simple Interest is: " << simpIn;
+    cout << "\n\tSimple Interest is: " << simpIn;
     getch();
     return 0;
 };

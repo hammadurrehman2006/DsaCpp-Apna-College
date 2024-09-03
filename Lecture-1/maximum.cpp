@@ -21,7 +21,7 @@ int main()
     }
     else
     {
-        cout << "\nBoth numbers are equal";
+        cout << "\n\tBoth numbers are equal";
     }
     getch();
     return 0;

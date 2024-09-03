@@ -1,4 +1,4 @@
-// A program to calculate simple interest using Princripal(p), Rate(R) and Time(T) in cpp.
+// A program to calculate simple interest using Princripal(p), Rate(R) and Time(T).
 #include <iostream>
 #include <conio.h>
 using namespace std;
